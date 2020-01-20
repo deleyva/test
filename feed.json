@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test",
+    "description": "",
+    "home_page_url": "https://deleyva.github.io/test",
+    "feed_url": "https://deleyva.github.io/test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "deleyva"
+    },
+    "items": [
+        {
+            "id": "https://deleyva.github.io/test/esto-es-una-prueba.html",
+            "url": "https://deleyva.github.io/test/esto-es-una-prueba.html",
+            "title": "Esto es una prueba",
+            "summary": "A ver qué tal, porque vamos... esto de los CMS es un dolor. Lo dicho, a ver",
+            "content_html": "<p>A ver qué tal, porque vamos... esto de los CMS es un dolor.</p>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/NgsfUb7DGUY\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<p>Lo dicho, a ver</p>",
+            "author": {
+                "name": "deleyva"
+            },
+            "tags": [
+                   "guitar"
+            ],
+            "date_published": "2020-01-20T16:46:16+01:00",
+            "date_modified": "2020-01-20T16:58:50+01:00"
+        }
+    ]
+}

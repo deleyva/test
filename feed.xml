@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>test</title>
+    <link href="https://deleyva.github.io/test/feed.xml" rel="self" />
+    <link href="https://deleyva.github.io/test" />
+    <updated>2020-01-20T17:19:25+01:00</updated>
+    <author>
+        <name>deleyva</name>
+    </author>
+    <id>https://deleyva.github.io/test</id>
+
+    <entry>
+        <title>Esto es una prueba</title>
+        <author>
+            <name>deleyva</name>
+        </author>
+        <link href="https://deleyva.github.io/test/esto-es-una-prueba.html"/>
+        <id>https://deleyva.github.io/test/esto-es-una-prueba.html</id>
+            <category term="guitar"/>
+
+        <updated>2020-01-20T16:58:50+01:00</updated>
+            <summary>
+                <![CDATA[
+                    A ver qué tal, porque vamos... esto de los CMS es un dolor. Lo dicho, a ver
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A ver qué tal, porque vamos... esto de los CMS es un dolor.</p>
+<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/NgsfUb7DGUY" allowfullscreen="allowfullscreen" ></iframe></figure>
+<p>Lo dicho, a ver</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
